@@ -9,6 +9,11 @@
 .box-2_avatar {
 	/* padding: 0.5em; */
 	width: 160px;
+	/* display: flex; */
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	/* min-height: 100vh; */
 }
 
 /* .options label,
